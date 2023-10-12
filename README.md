@@ -32,5 +32,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Tzung-Lee/Tzung-Lee/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/Tzung-Lee/Tzung-Lee/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-  <img src="https://github.com/Tzung-Lee/Tzung-Lee/blob/main/profile-3d-contrib/profile-gitblock.svg" />
+<!--   <img src="https://github.com/Tzung-Lee/Tzung-Lee/blob/main/profile-3d-contrib/profile-gitblock.svg" /> -->
 </div>
