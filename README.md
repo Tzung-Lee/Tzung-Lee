@@ -1,12 +1,12 @@
 #  🙋 Hello
 
-<table>
+<table style="width:100%">
 <tr><td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是TzungTsai Lee。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
